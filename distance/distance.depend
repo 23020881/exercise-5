@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714571088 source:c:\users\sdala\desktop\files\distance\main.cpp
+	<iostream>
+	<cmath>
+
